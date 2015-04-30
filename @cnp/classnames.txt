@@ -1,0 +1,246 @@
+CLASSNAMES DEL MOD C.N.P.
+=========================
+FACCIONES:
+==========
+police_Brigada_Esp; (Policías)
+delincuentes_Brigada_Esp; (Delincuentes)
+
+
+
+VEHICLES CLASSES:
+================
+police_Brigada_Esp_units; (Unidades Policías)
+delincuentes_Brigada_Esp_units; (Delincuentes)
+police_Brigada_Esp_vehicles; (Vehículos Policiales)
+police_Brigada_Esp_objetos; (Objetos C.N.P.)
+police_Brigada_Esp_armas; (Objetos C.N.P. Armas)
+police_Brigada_Esp_chalecos; (Objetos C.N.P. Chalecos)
+police_Brigada_Esp_gorros; (Objetos C.N.P. Gorros)
+police_Brigada_Esp_mochilas; (Objetos C.N.P. Mochilas)
+police_Brigada_Esp_uniformes; (Objetos C.N.P. Uniformes)
+
+
+
+POLICIAS:
+=========
+policia_cnp_man; (Policía)
+policia_cnp_heavy; (Policía Armado)
+policia_uip_heavy; (Policía UIP)
+policia_geo_man1; (Policía GEO 1)
+policia_geo_man2; (Policía GEO 2)
+policia_goes_camu; (Policía GOES 1 Camuflaje)
+policia_goes_camu1; (Policía GOES 2 Camuflaje)
+policia_inspector_camu; (Inspector-Jefe GOES Camuflaje)
+policia_inspector_geo; (Inspector-Jefe GEO)
+policia_geo_sniper; (Tirador GEO)
+policia_goes_sniper; (Tirador GOES Camuflaje)
+policia_geo_medic; (Sanitario GEO)
+policia_goes_medic; (Sanitario GOES Camuflaje)
+policia_geo_mecanic; (Mecánico GEO)
+policia_goes_mecanic; (Mecánico GOES Camuflaje)
+policia_piloto; (Piloto)
+
+
+
+DELINCUENTES:
+=============
+delincuente_1; (Delincuente 1)
+delincuente_2; (Delincuente 2)
+delincuente_3; (Delincuente 3)
+empresario_corrupto; (Empresario Corrupto)
+terrorista_1; (Terrorista 1)
+terrorista_2; (Terrorista 2)
+terrorista_3; (Terrorista 3)
+terrorista_at; (Terrorista AT)
+
+
+
+VEHICULOS POLICIALES:
+=====================
+policia_cnp_car; (Coche)
+policia_geo_offroad; (Coche GEO Abierto)
+policia_cnp_offroad; (Coche Radio Patrulla)
+policia_geo_hunter; (Hunter GEO)
+policia_helicopter; (Helicóptero pequeño)
+policia_helicopter1; (Helicóptero grande)
+
+
+
+OTROS VEHICULOS DE NUEVA CREACION:
+==================================
+CNP_c4_picasso_F; (Citroen C4 Picasso Policía, vehículo denominado "Zeta")
+
+UR_416_Cargo; (UR-416 Desarmado)
+UR_416_M2; (UR-416 armado con ametralladora M2 en la torreta)
+
+Mercedes_Sprinter_transport_F; (Mercedes Sprinter Civil)
+Mercedes_Sprinter_civ_larga_F; (Mercedes Sprinter Civil Larga)
+Mercedes_Sprinter_ambulancia_F; (Mercedes Sprinter Ambulacia)
+
+CNP_Mercedes_Sprinter_GOIT_F; (Mercedes Sprinter Policía GOIT Reparaciones)
+CNP_Mercedes_Sprinter_UIP_F; (Mercedes Sprinter Policía UIP)
+
+EC_135_F; (Helicóptero EC135 Policía)
+
+
+
+
+MOCHILAS:
+=========
+mochila_sanit_geo; (Mochila Sanitario GEO)
+mochila_sanit_goes; (Mochila Sanitario GOES Camu)
+mochila_meca_geo; (Mochila Mecánico GEO)
+mochila_meca_goes; (Mochila Mecánico GOES Camu)
+
+
+
+UNIFORMIDADES:
+==============
+policia_man_uniform; (Uniforme Policía)
+policia_uip_uniform; (Uniforme Policía UIP)
+policia_geo_man_uniform; (Uniforme GEO 1)
+policia_geo_man_uniform1; (Uniforme GEO 2)
+
+policia_goes_uniform_camu; (Uniforme GOES 1 Camuflaje)
+policia_goes_uniform_camu1; (Uniforme GOES 2 Camuflaje)
+
+policia_geo_sniper_uniform; (Uniforme Tirador GEO)
+policia_goes_sniper_uniform; (Uniforme Tirador GOES Camuflaje)
+
+policia_piloto_uniform; (Uniforme Piloto)
+policia_inspector_uniform_goes; (Uniforme Inspector GOES Camuflaje)
+policia_inspector_uniform_geo; (Uniforme Inspector GEO)
+
+Brigada_Esp_delincuente_shirt; (Traje empresario)
+
+
+
+ACCESORIOS:
+===========
+policia_cnp_vest; (Chaleco Policía)
+policia_belt; (Cinturón Policía)
+pistolera_marron; (Pistolera Marrón)
+pistolera_negra; (Pistolera Negra)
+policia_geo_vest; (Chaleco GEO)
+goes_vest_camu; (Chaleco GOES Camuflaje)
+policia_sniper_vest; (Chaleco Tirador GEO)
+goes_vest_s_camu; (Chaleco Tirador GOES Camuflaje)
+uip_vest_pol; (Chaleco UIP Policía)
+policia_cnp_gorra; (Gorra Policía)
+policia_uip_cap; (Gorra UIP)
+policia_geo_helmet; (Casco GEO)
+casco_cnp_protec; (Casco Protector CNP)
+policia_geo_boina_roja; (Boina Roja GEO)
+policia_geo_boina_negra; (Boina Negra GEO)
+policia_geo_boina_azul; (Boina Azul GEO)
+policia_pilot_helmet; (Casco Piloto Policía)
+Balaclava_negro; (Pasamontañas Negro con función nocturna)
+
+
+
+MUNICION:
+=========
+8Rnd_12Gauge_Pellets; (8 Cartuchos de Postas Cal. 12, usadas en escopetas M4)
+8Rnd_12Gauge_Slug; (8 Cartuchos de Bala Cal. 12 usadas en escopetas M4)
+6Rnd_12Gauge_Pellets; (6 Cartuchos de Postas Cal. 12, usadas en escopetas M4 y Franchi)
+6Rnd_12Gauge_Slug; (6 Cartuchos de Bala Cal. 12, usadas en escopetas M4 y Franchi)
+CNP_flash; (Granada Aturdidora M84 de mano)
+G36_mag; (Cagador de 30 balas de 556x45 mm., usadas en rifles G36)
+G36_mag_trace; (Cagador de 30 balas trazadoras de 556x45 mm., usadas en rifles G36)
+MG36_mag; (Tambor de 100 balas de 556x45 mm., usadas en ametralladora MG36)
+MG36_mag_trace; (Tambor de 100 balas trazadoras de 556x45 mm., usadas en ametralladora MG36)
+
+
+ARMAS:
+======
+katiba_geo; (arma policial)
+gm6_geo; (arma policial francotirador)
+Franchi; (Escopeta Franchi)
+benelli; (M4 S90)(Escopeta Benelli M4 Super 90 cañón de 18.5 pulgadas)
+benelli_14; (M4 S90 Corto)(Escopeta Benelli M4 Super 90 cañón de 14 pulgadas)
+benelli_pgs; (M4 S90 PGS)(Escopeta Benelli M4 Super 90 PGS cañón de 18.5 pulgadas)
+benelli_14_pgs; (M4 S90 PGS Corto)(Escopeta Benelli M4 Super 90 PGS cañón de 14 pulgadas)
+g36a; (Rifle de Asalto con mira, cañon largo, calibre 556x45 mm.)
+g36c; (Rifle de Asalto con raíl, cañon corto, calibre 556x45 mm.)
+g36k; (Rifle de Asalto con mira, cañon corto, calibre 556x45 mm.)
+MG36; (Ametralladora con raíl con tambor de 100 cartuchos calibre 556x45 mm., acoplable bípode_CNP independiente)
+
+
+OBJETOS:
+========
+Espanya_Flag; (Bandera de España con mástil) Ubicado en: objetos-banderas
+cartel_cnp; (Cartel del C.N.P. de puerta de Comisaría)
+cnp_box; (Caja de munición con armas, munición y accesorios del C.N.P.)
+cnp_mg36_bipode; (Bípode para la ametralladora MG36)
+
+
+
+OBJETOS EMPAQUETADOS:
+====================
+PAQUETE CHALECOS:
+==================
+chaleco_cnp_policia; (Chaleco Policía Armado)
+cinturon_cnp_policia; (Cinturón Policía)
+pistolera_cnp_marron; (Pistolera Marrón)
+pistolera_cnp_negra; (Pistolera Negra)
+chaleco_cnp_geo; (Chaleco G.E.O.)
+chaleco_cnp_goes; (Chaleco G.O.E.S.)
+chaleco_tirador_geo; (Chaleco Tirador G.E.O.)
+chaleco_tirador_goes; (Chaleco Tirador G.O.E.S.)
+chaleco_uip_cnp; (Chaleco Policía U.I.P.)
+
+
+
+PAQUETE GORROS/CASCOS:
+======================
+gorra_policia_cnp; (Gorra Policía)
+gorra_uip_cnp; (Gorra U.I.P.)
+casco_geo_cnp; (Casco G.E.O.)
+casco_protec_cnp; (Casco Protector C.N.P.)
+boina_roja_cnp; (Boina Roja G.E.O.)
+boina_negra_cnp; (Boina Negra G.E.O.)
+boina_azul_cnp; (Boina Azul G.E.O.)
+casco_piloto_cnp; (Casco Piloto C.N.P.)
+
+
+
+PAQUETE PASAMONTAÑAS:
+=====================
+Item_Balaclava_cnp; (Pasamontañas Negro C.N.P.)
+
+
+
+PAQUETE UNIFORMES:
+==================
+Item_uniform_pol_cnp; (Uniforme Policía)
+Item_uniform_uip_cnp; (Uniforme Policía U.I.P.)
+Item_uniform_geo1_cnp; (Uniforme G.E.O. 1)
+Item_uniform_geo2_cnp; (Uniforme G.E.O. 2)
+Item_uniform_goes1_cnp; (Uniforme G.O.E.S. 1 Camuflaje)
+Item_uniform_goes2_cnp; (Uniforme G.O.E.S. 2 Camuflaje)
+Item_uniform_geo_sniper; (Uniforme Tirador G.E.O.)
+Item_uniform_goes_sniper; (Uniforme Tirador G.O.E.S. Camuflaje)
+Item_uniform_piloto_cnp; (Uniforme Piloto C.N.P.)
+Item_uniform_inspector_goes; (Uniforme Inspector G.O.E.S. Camuflaje)
+Item_uniform_inspector_geo; (Uniforme Inspector G.E.O.)
+Item_traje; (Traje Empresario)
+
+
+
+PAQUETE ARMAS:
+==============
+cnp_katiba_geo; (Rifle Katiba G.E.O.)
+cnp_gm6_geo; (Rifle GM6 Tirador G.E.O.)
+cnp_benelli; (Escopeta Benelli M4 S90 Cañón 18.5)
+cnp_benelli_14; (Escopeta Benelli M4 S90 Cañón 14)
+cnp_benelli_pgs; (Escopeta Benelli M4 S90 PGS Cañón 18.5)
+cnp_benelli_14_pgs; (Escopeta Benelli M4 S90 PGS Cañón 14)
+cnp_franchi; (Escopeta Franchi C.N.P.)
+cnp_g36a; (Rifle de Asalto G36A con mira)
+cnp_g36c; (Rifle de Asalto G36C con rail)
+cnp_g36k; (Rifle de Asalto G36K con mira)
+cnp_mg36; (Ametralladora MG36C con rail, acoplable bípode MG36)
+
+Brigada_Spanish
+
+

@@ -1,0 +1,137 @@
+MOD DEL CUERPO NACIONAL DE POLICIA DE ESPAÑA
+============================================
+
+
+PARA USAR EL MOD DEL C.N.P. EN SUS MISIONES.
+============================================
+Tenemos dos facciones, POLICIAS y DELINCUENTES.
+Los policías están en el bando de los BLUFOR y los delincuentes en el bando de los OPFOR.
+NOTA: Las dos facciones están constantemente mejorándose y añadiendo nuevos vehículos y unidades y los que se reflejan más abajo ES a título orientativo de las primeras versiones, no obtante se puede ver los nuevos vehículos y unidades añadidas en las mejoras de versiones de más abajo.
+
+
+P O L I C I A S:
+================
+Dentro de la facción de POLICIAS tenemos dos clases: UNIDADES POLICIALES y VEHICULOS POLICIALES. En las unidades tenemos un policía normal o patrullero armado con una pistola, un policía armado con escopeta y pistola, tres GEOS unos de ellos tirador selecto armado con un arma de francotirador con mira y pistola y los otros dos armados con metralletas y pistolas y un policía piloto de helicópteros armado con una pistola.
+
+Los vehículos policiales disponibles son: 
+
+* Un coche con un lanzadestellos comúnmente llamado pirulo en el techo y sirena, que en un principio lo iba a dejar como vehículo "K" de camuflaje, pero 
+  al final lo dejé con los escudos y letreros de la policía. Este vehículo lleva en su inventario varios cargadores para metralletas y otro cargadores 
+  para pistola y unos pocos botiquines.
+
+* Un vehículo radio patrulla descubierto en la parte de atrás, con sirena y lanzadestellos que se puede activar/desactivar usando la rueda del ratón. En 
+  su inventario también lleva cargadores para las metralletas que usamos y pistolas, así como unos pocos botiquines.
+
+* Un vehículo descubierto en la parte de atrás y sin puertas para que los GEOS puedan apearse del vehículo rápidamente para entrar en acción. Dispone
+  igualmente de lanzadestellos y sirena totalmente funcionales y en su inventario también lleva cargadores para metralletas, pistolas y cargadores para
+  el francotirador, así como botiquines.
+
+* Un vehículo semiblindado marca Hunter, dotado con sirena y lanzadestellos funcionales, en su inventario lleva igual que el anterior, pero con mas   
+  cantidad de cargadores y botiquines, al ser un vehículo mas grande.
+
+* Un helicóptero pequeño de reconocimiento, con sólo dos asientos, el del piloto y copiloto, no lleva cargadores ni botiquines.
+
+* Y por último un helicóptero de transporte para ocho policías, no lleva cargadores, ni botiquines en su inventario.
+
+* Casi todos los vehículo policiales van dotados de emisora de radio y de tres sonidos, que se activan con el botón izquierdo del ratón y se cambia el 
+  sonido pulsando la tecla "F", dichos sonidos son: La bocina, un aviso de parada con sirena a los conductores y una sirena gañido.
+
+
+
+DELINCUENTES:
+=============
+Dentro de la facción de DELINCUENTES tenemos una clase la cual contiene:
+
+* Tres delincuentes, armados con pistolas. (Sus camisas y pantalones varian de color al azar, así como la prenda de cabeza varia de modelo).
+
+* Cuatro terrorista, armados con metralletas de bajo calibre. (Sus camisas, pantalones, bandoleras y turbantes varian de color al azar).
+
+* Y un empresario corrupto, el cual siempre va con un maletín, supuestamente lleno de dinero "B", no va armado. El empresario se puede usar en sus
+  misiones y colocar en el bando que desee, modificando la facción desde su misión, de esa manera puede ser empresario bueno o malo.
+
+* Los delincuentes y terroristas no llevan chalecos antibalas, por lo que con un disparo certero son eliminados.
+
+* Los delincuentes y terroristas, al ser civiles, pueden usar cualquier vehículo civil que desee, por eso no fueron integrados en el mod.
+
+
+
+MEJORAS VERSIÓN BETA 06:
+=======================
+- Se ha cambiado el nombre de todos los módulo del mod, ahora empieza todos por cnp_xxxx
+- Arreglo de algunos errores mínimos de puntos de referencia de las furgonetas Mercedes Sprinter que daba error en el log del servidor.
+- Se le ha quitado a las dos UR-416 el resplandor que daba los lanzadestellos, por problemas en el log del servidor dedicado. (En un futuro se revisara este problema y se arreglará).
+- Arreglo de sombras de giro en ambas hélices del helicóptero EC-135.
+- Las palas del helicóptero EC-135 se ha cambiado el sentido de giro, estaban girando al revés.
+- Arreglo en el helicóptero EC-135 de la dureza del chasis.
+- Compatibilidad de todos el mod CNP con Zeus.
+- Arreglo de la escopeta Franchi, ahora es compatible en servidores dedicados.
+- Arreglo de las escopetas M4, ahora son compatibles en servidores dedicados.
+- Ahora todas los objetos del mod CNP estan disponibles en el editor, en Objetos C.N.P. [?????], donde ????? pueden ser chalecos, gorros, armas, etc...
+- Añadido nuevo chaleco UIP.
+- Se han corregido algunos errores en el módulo policia_cnp, de compatibilidad en servidores dedicados.
+- Arreglo de puntos de referencia del skeleton de las escopetas M4.
+- Añadidos a todos los vehículos puntos de enganche, ahora todos los vehículos pueden ser enganchado con helicópteros. Según el peso del vehículo, el helicóptero sería más o menos grande.
+- Agregado nuevo Policía U.I.P. dotado de Casco Protector C.N.P. y Chaleco U.I.P.
+- Agregado nuevo vehículo Vamtac C.N.P.
+- Agregado nuevo vehículo Vamtac G.E.O.
+- Agregado nuevo vehículo Vamtac G.E.O. de Asalto, con plataforma funcional desde el asiento del conductor, el cual podrá subir/bajar y extender/recoger la plataforma. La plataforma es util para asaltar cualquier edificio por balcón, tejado etc.
+- Se han eliminado las escopetas con el culatín recogido, en un futuro trataremos de que el culatín sea extensible.
+- Añadidas tres armas nuevas, el rifle de asalto G36A con mira y cañón largo, el G36K con mira y cañón corto y el G36C con raíl y cañón corto.
+- Se ha añadido un nuevo arma, la ametralladora MG36, con tambor de 100 cartuchos dotado de raíl para acoplar miras, se le puede adaptar bípode.
+- Se ha añadido un bípode para la ametralladora MG36.
+- Se ha añadido una nueva caja de munición con todas las armas, munición y objetos, todo ello empleados en el mod C.N.P.
+- Se ha modificado todos los inventarios de los vehículos reduciendo los objetos, toda vez que antes no teníamos caja de munición y ahora si.
+- Se ha añadido puertas al helicóptero pequeño y se han añadido dos pasajeros más en la parte de atrás.
+- Al casco protector CNP se le ha añadido un protector de cuello.
+- Al Citroën C4 Picasso se le han mejorado las texturas.
+
+
+
+MEJORAS VERSIÓN BETA 05:
+=======================
+- Arreglo de la UR-416 al aplicar la actualización 1.40, al bajar el artillero éste moria.
+- Arreglo de ruedas de la UR-416.
+- Arreglo de reflejos en chasis de la UR-416.
+- Arreglo del C4, que no aparecían las ruedas en misiones recargadas.
+- Arreglo en sombras de palas del helicóptero EC-135.
+- Arreglo de texturas del helicóptero EC-135.
+- Se le añadieron algunos pilotos intermitentes que le faltaban al helicóptero EC-135.
+- Se añadió a todos los vehículos la opción para poder ser usados con Zeus.
+- Se corrigió en todos los vehículos, para cuando se muera conduciendo expulse al conductor y ocupantes muertos fuera del vehículo.
+- Arreglado el sonido de todas las escopetas M4 y Franchi, cuando disparaba la IA sonaba como si tubiesen silenciador en las escopetas.
+
+
+MEJORAS VERSIÓN BETA 04:
+=======================
+- Arreglado uniforme de empresario.
+- Arreglado el sistema de luces policiales y sirena de la UR-416, ahora tienes varios sonidos seleccionados en el menú de acción.
+- Añadidas nuevas armas, escopetas de cartuchos del calibre 12.
+- Añadido casco de G.E.O. con visera.
+- Añadidas varias furgonetas Mercedes Sprinter civiles, una ambulancia y dos policiales, con lanzadestello visibles de día y noche y sirena.
+- Añadido el vehículo "Z" policial Citroën C4 Picasso, con lanzadestellos visible de día y noche con varias opciones de luces seleccionables, varios
+  sonidos de sirenas y sistema de rádar de control de velocidad de otros vehículos.
+- Añadido el helicóptero policial EC-135.
+- Añadido el cartel de las entradas de las Comisarías.
+- Añadida la granada aturididora M84.
+- Añadida munición para la escopetas del calibre 12, de postas y de bala, de 6 y 8 cartuchos.
+
+
+MEJORAS VERSIÓN BETA 03:
+=======================
+- Como novedad se han añadidos dos vehículos UR-416 policiales nuevos: Uno dotado con una ametralladora M2 en la torreta y otro desarmado.
+- Añadidos tres policías GEOS nuevos, un sanitario, un mecánico y un inspector-jefe.
+- Añadidos seis policías GOES con uniforme de camuflaje, dos de asalto, un tirador selecto, un inspector-jefe, un sanitario y un mecánico.
+- Añadidas dos pistoleras de cinturón de nueva creación, una de color marrón y otra negra.
+- Ahora todos las integrantes de las dos facciones pueden arrojar granadas y botes de humo.
+- Todos los que van armados sólo con pistola en ambos bandos, ahora pueden enfundar/desenfundar sus respectivas armas.
+- Añadido un nuevo terrorista AT con un lanzacohetes Launch_RPG32_F.
+- Añadido pasamontañas de color negro con función de visión nocturna.
+- En el inventario de algunos vehículos se han añadidos nuevos objetos, como pasamontañas, boinas de policías de color rojas, negras y azules, cascos de   policía, detector de minas, más armas y municiones, granadas de mano, botes de humo, lanzacohetes, explosivos, etc...
+- A los dos helicópteros policiales se le ha añadido también inventario policial.
+- Se ha añadido la función de hacer rápel desde el helicóptero grande de la policía.
+- Se ha arreglado el cambio de uniformidad de la facción de delincuentes.
+
+
+Brigada_Spanish
+
+

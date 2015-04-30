@@ -1,0 +1,18 @@
+El equipo que ha realiazado el mod del C.N.P., esta formado por miembros de Proyecto-Alfa.net:
+
+- Abash, diseñador y modelador 3D.
+- Brigada_Spanish, diseñador de texturas y scripts.
+
+
+Desde aquí quiero dar las gracias a todos los que nos han ayudado a mejorar el mod CNP, en especial a:
+
+- Bohemia Interactive por este fabuloso juego ArmA3.
+- Demian2435, por su Sistema de luces de los vehículos offroad.
+- ante185, por su ayuda con el Código de uniformes civiles armados al azar.
+- Arctorkovich, por su script Sidearm-Holster.
+- Zealot, por su script Helicopter fastrope.
+- Purple, por sus fabulosas armas Benelli M4 Super 90.
+- super-truite, por sus scripts de granada aturdidora.
+- R34P3R, Por su inmejorable misión co04_a-normal-day_1.2.altis y adaptada por Brigada_Spanish al mod CNP llamada cnp_co04_a-pie-de-calle_12.altis
+
+
